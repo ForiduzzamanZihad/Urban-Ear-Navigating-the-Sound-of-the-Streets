@@ -15,8 +15,9 @@ Getting Started
 Clone the Repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/audio-classification.git
+Copy code: git clone https://github.com/ForiduzzamanZihad/Urban-Ear-Navigating-the-Sound-of-the-Streets.git
+cd Urban-Ear-Navigating-the-Sound-of-the-Streets
+
 cd audio-classification
 Install Dependencies:
 
